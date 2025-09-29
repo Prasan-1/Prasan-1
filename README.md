@@ -1,6 +1,5 @@
 
 
-# This is my Secondary Github account, Primary one is https://github.com/Pra-San
 
 <!--
 **Prasan-1/Prasan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
